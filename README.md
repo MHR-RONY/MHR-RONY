@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mehraf Hossen Rony and I'm a Passionate coder</h2>
+<h2 align="left">"Hello, I'm Mehraf Hossen Rony – A Dedicated Full-Stack Developer Specializing in JavaScript, React, and Python."</h2>
 
 ###
 
